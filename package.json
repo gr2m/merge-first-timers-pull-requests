@@ -11,5 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "@octokit/core": "^3.2.1"
-  }
+  },
+  "repository": "github:gr2m/merge-first-timers-pull-requests"
 }
